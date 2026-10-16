@@ -1,0 +1,27 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python bytecode caches
+__pycache__/
+*.py[cod]
+
+# Database file
+db.sqlite3
+
+# Environment files
+.env
+
+# Editor/OS noise
+.vscode/
+.idea/
+.DS_Store
+
+# Test/coverage artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Django build artifacts
+staticfiles/
+media/
